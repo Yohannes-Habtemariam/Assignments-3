@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+
+body{
+    background: #ffffffcb;
+    font-family: sans-serif;
+    font-size: 20px;
+    line-height: 40px;
+    letter-spacing: 1.2px;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-left: 50px;
+    padding-right: 40px;
+    text-align: justify;
+}
+#main{
+    text-align: center;
+    font-size: 55px;
+    font-family: sans-serif;
+    line-height: 40px;
+    letter-spacing: 8px;
+
+}
+.mainTopic{
+    font-family: sans-serif;
+    font-weight: bold;
+    background: rgba(189, 157, 189, 0.753);
+    margin: 25px;
+}
+
+.introduction h1{
+    color: #ce14be;
+    background: hsl(210, 2%, 66%);
+}
+
+.additionalTopic h1{
+    background: hsl(210, 2%, 66%);
+    color: #ce14be;
+}
+
+.additionalTopic h2{
+    background: yellow;
+}
+
+.sweet h1{
+    color: #ce14be;
+    background: hsl(210, 2%, 66%); 
+}
+
+
+.links ul{
+    text-decoration: none;
+    background-color: #16e9de;
+    margin: 0;
+}   
+ 
+.links ul li{
+    list-style-type: circle;
+    margin-left: 80px;
+    padding-top: 0;
+    padding-bottom: 0;
+}  
+
+.links ul li:hover{
+    background-color: black;
+}
+
+.links ul li a:hover{
+    color: red;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+
+.a{
+    color: #18f104f1;
+    font-size: 2rem;
+    margin-top: 2rem;  
+    
+}
+.a:hover{
+    background-color: rgb(150, 82, 82);
+     
+    
+}
+
+.contactPage{
+    margin-top: 20px;
+    margin-bottom: 5px;
+    padding-top: 0;
+    padding-bottom: 0;
+    line-height: 1px;
+}
+.contact{
+   margin-top: 2em;
+   padding-top: 0;
+   background: rgba(136, 240, 231, 0.452);
+   margin-bottom: 25px;
+   
+}
+
+.contactHeader{
+    margin-top: 1.5em;
+}
+.contact ul{
+    margin-left: 80px;
+}
+.contact li{
+    list-style-type: circle;
+    
+}
+
+.contact li a:hover{
+    background-color: rebeccapurple;
+    color: red;
+    font-weight: bold;
+    font-size: 1.6rem;
+    
+}
+
+h3 {
+   margin-top: 2em; 
+}
+.move {
+    
+    margin-top: .7em;
+    
+}
+
+.move a:hover{
+    
+    background-color: rebeccapurple;
+    color: red;
+    font-weight: bold;
+    font-size: 1.6rem;
+    
+}
